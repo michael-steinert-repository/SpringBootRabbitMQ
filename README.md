@@ -14,7 +14,7 @@
 ## RabbitMQ Architecture
 
 ![RabbitMQ Architecture](https://user-images.githubusercontent.com/29623199/118953881-833f6880-b95d-11eb-9496-944021242fea.JPG)
-*The Exchange and Queue are bined with the Routing Key which acts like an Identity. So each Message can be redirect to correspondig Queue
+* The Exchange and Queue are bined with the Routing Key which acts like an Identity. So each Message can be redirect to correspondig Queue
 
 
 ## Start RabbitMQ
